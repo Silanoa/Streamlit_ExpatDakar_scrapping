@@ -430,24 +430,25 @@ def main():
             </style>
         """, unsafe_allow_html=True)
         st.write("Choisir la catégorie de données à télécharger")
-        
+
         selected_category_to_download = st.radio("Catégorie :", ['Ordinateurs', 'Téléphones', 'Tv Home-Cinema'])
-        if selected_category_to_download == 'Ordinateurs':
-            csv_file_to_download = 'expat_ordinateurs.csv'
-        elif selected_category_to_download == 'Téléphones':
-            csv_file_to_download = 'expat_telephones.csv'
-        elif selected_category_to_download == 'Tv Home-Cinema':
-            csv_file_to_download = 'expat_tv_home_cinemas.csv'
         if st.button("Vérification"):
-            csv_file_path = os.path.join(os.getcwd(), csv_file_to_download)
-            st.download_button(
-                label=f"Télécharger les données {selected_category_to_download} au format CSV",
-                data=open(csv_file_path, 'rb'),
-                file_name=csv_file_to_download,
-                mime='text/csv',
-                key='download-csv',
-                help="Cliquez pour télécharger les données"
-            )
+            csv_file_to_download = None
+            data_to_download = None
+
+            if selected_category_to_download == 'Ordinateurs':
+                csv_file_to_download = 'expat_ordinateurs.csv'
+                data_to_download = pd.read_csv("expat_ordinateurs.csv")
+            elif selected_category_to_download == 'Téléphones':
+                csv_file_to_download = 'expat_telephones.csv'
+                data_to_download = pd.read_csv("expat_telephones.csv")
+            elif selected_category_to_download == 'Tv Home-Cinema':
+                csv_file_to_download = 'expat_tv_home_cinemas.csv'
+                data_to_download = pd.read_csv("expat_tv_home_cinemas.csv")
+
+            if csv_file_to_download is not None and data_to_download is not None:
+                #st.success(f"Données {selected_category_to_download} chargées avec succès!")
+                load(data_to_download, f'Données Scrappées de {selected_category_to_download} avec Web Scrapper', '1', '101')
     elif  selected_option == "Afficher les statistiques":
         selected_category = st.radio("Choisissez une catégorie :", ['Téléphones', 'Ordinateurs', 'Tv Home-Cinema'])
 
