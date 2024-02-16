@@ -1,0 +1,502 @@
+,État_tv,Marque,Dimension_écran,Prix
+0,Neuf,Hisense,75.0 Pouces,650 000 F Cfa
+1,Neuf,Samsung,55.0 Pouces,390 000 F Cfa
+2,Neuf,Sony,,70 000 F Cfa
+3,D'occasion,Samsung,43.0 Pouces,225 000 F Cfa
+4,Neuf,Autre,,129 900 F Cfa
+5,Venant,Samsung,,69 900 F Cfa
+6,Neuf,Samsung,55.0 Pouces,330 000 F Cfa
+7,Neuf,,65.0 Pouces,290 000 F Cfa
+8,Neuf,Samsung,75.0 Pouces,850 000 F Cfa
+9,Neuf,Autre,,110 000 F Cfa
+10,Neuf,Samsung,85.0 Pouces,1 750 000 F Cfa
+11,Neuf,TCL,75.0 Pouces,529 000 F Cfa
+12,Neuf,Haier,,120 000 F Cfa
+13,Neuf,Autre,,124 900 F Cfa
+14,Neuf,LG,32.0 Pouces,150 000 F Cfa
+15,Neuf,,,75 000 F Cfa
+16,Neuf,Samsung,65.0 Pouces,575 000 F Cfa
+17,Neuf,Autre,43.0 Pouces,129 000 F Cfa
+18,Neuf,Astech,65.0 Pouces,398 000 F Cfa
+19,Venant,LG,,130 000 F Cfa
+20,Neuf,Hisense,65.0 Pouces,475 000 F Cfa
+21,Neuf,Samsung,,75 000 F Cfa
+22,Neuf,TCL,,225 000 F Cfa
+23,Neuf,Astech,43.0 Pouces,119 000 F Cfa
+24,Neuf,Hisense,43.0 Pouces,145 000 F Cfa
+25,Neuf,Astech,50.0 Pouces,209 000 F Cfa
+26,Neuf,Autre,32.0 Pouces,59 000 F Cfa
+27,Neuf,Hisense,43.0 Pouces,180 000 F Cfa
+28,Neuf,Samsung,55.0 Pouces,350 000 F Cfa
+29,Neuf,Hisense,,140 000 F Cfa
+30,Neuf,Astech,50.0 Pouces,219 000 F Cfa
+31,Neuf,Astech,75.0 Pouces,549 000 F Cfa
+32,Neuf,Astech,65.0 Pouces,369 000 F Cfa
+33,Neuf,Astech,43.0 Pouces,139 000 F Cfa
+34,Neuf,Astech,85.0 Pouces,960 000 F Cfa
+35,Neuf,Autre,40.0 Pouces,98 000 F Cfa
+36,Neuf,Autre,,54 900 F Cfa
+37,Neuf,Autre,,119 000 F Cfa
+38,Neuf,Autre,65.0 Pouces,279 000 F Cfa
+39,Neuf,Autre,55.0 Pouces,198 000 F Cfa
+40,Neuf,Samsung,,10 000 F Cfa
+41,Neuf,Sony,,10 000 F Cfa
+42,Venant,Samsung,42.0 Pouces,
+43,Neuf,Autre,,330 000 F Cfa
+44,Neuf,,55.0 Pouces,195 000 F Cfa
+45,Neuf,Autre,,190 000 F Cfa
+46,Neuf,Sony,85.0 Pouces,1 500 000 F Cfa
+47,Neuf,TCL,43.0 Pouces,160 000 F Cfa
+48,Neuf,LG,55.0 Pouces,325 000 F Cfa
+49,Neuf,Astech,65.0 Pouces,340 000 F Cfa
+50,Neuf,Haier,43.0 Pouces,130 000 F Cfa
+51,Neuf,LIGHT WAVE,60.0 Pouces,280 000 F Cfa
+52,Neuf,LG,43.0 Pouces,215 000 F Cfa
+53,Neuf,Autre,64.9 Pouces,190 000 F Cfa
+54,Neuf,Astech,43.0 Pouces,130 000 F Cfa
+55,D'occasion,Philips,,60 000 F Cfa
+56,Neuf,Autre,,35 000 F Cfa
+57,Neuf,Autre,,84 900 F Cfa
+58,Neuf,Autre,65.0 Pouces,299 000 F Cfa
+59,Neuf,Autre,,49 900 F Cfa
+60,Venant,Hisense,55.0 Pouces,250 000 F Cfa
+61,Neuf,Autre,,129 900 F Cfa
+62,Neuf,Astech,65.0 Pouces,430 000 F Cfa
+63,Neuf,Samsung,85.0 Pouces,1 589 999 F Cfa
+64,Neuf,LG,86.0 Pouces,1 575 000 F Cfa
+65,Neuf,Samsung,55.0 Pouces,449 998 F Cfa
+66,Neuf,Astech,32.0 Pouces,95 000 F Cfa
+67,Réconditionné,Hisense,43.0 Pouces,120 000 F Cfa
+68,Neuf,Continental,55.0 Pouces,250 000 F Cfa
+69,Neuf,Autre,,40 000 F Cfa
+70,Neuf,TCL,50.0 Pouces,265 000 F Cfa
+71,Neuf,Autre,,21 900 F Cfa
+72,Neuf,Autre,150.0 Pouces,35 000 F Cfa
+73,Neuf,LG,32.0 Pouces,75 000 F Cfa
+74,Neuf,Samsung,55.0 Pouces,400 000 F Cfa
+75,Neuf,LG,55.0 Pouces,400 000 F Cfa
+76,Neuf,LG,65.0 Pouces,500 000 F Cfa
+77,Neuf,LG,70.0 Pouces,600 000 F Cfa
+78,Neuf,LG,75.0 Pouces,800 000 F Cfa
+79,Neuf,Sony,400.0 Pouces,169 000 F Cfa
+80,Neuf,Hisense,55.0 Pouces,280 000 F Cfa
+81,Neuf,Astech,43.0 Pouces,105 000 F Cfa
+82,Neuf,Sony,330.0 Pouces,179 000 F Cfa
+83,Neuf,Hisense,200.0 Pouces,98 000 F Cfa
+84,Neuf,Hisense,120.0 Pouces,89 000 F Cfa
+85,Neuf,Bectel,,35 000 F Cfa
+86,Neuf,LG,,1 599 000 F Cfa
+87,Neuf,Samsung,,75 000 F Cfa
+88,Neuf,Autre,55.0 Pouces,199 000 F Cfa
+89,Neuf,Astech,55.0 Pouces,235 000 F Cfa
+90,Neuf,Autre,55.0 Pouces,210 000 F Cfa
+91,Neuf,,,70 000 F Cfa
+92,Neuf,Autre,43.0 Pouces,115 000 F Cfa
+93,Neuf,Autre,43.0 Pouces,119 000 F Cfa
+94,Neuf,Autre,65.0 Pouces,279 000 F Cfa
+95,Neuf,Autre,55.0 Pouces,198 000 F Cfa
+96,Neuf,Autre,43.0 Pouces,119 000 F Cfa
+97,D'occasion,Samsung,64.0 Pouces,200 000 F Cfa
+98,Neuf,Astech,,355 000 F Cfa
+99,Neuf,LG,75.0 Pouces,850 000 F Cfa
+100,Neuf,Autre,120.0 Pouces,120 000 F Cfa
+101,Neuf,Star Sat,,195 000 F Cfa
+102,Neuf,Astech,55.0 Pouces,245 000 F Cfa
+103,Neuf,Autre,43.0 Pouces,120 000 F Cfa
+104,Neuf,Autre,65.0 Pouces,385 000 F Cfa
+105,Neuf,Astech,55.0 Pouces,319 900 F Cfa
+106,Venant,Philips,43.0 Pouces,165 000 F Cfa
+107,Neuf,LG,86.0 Pouces,1 500 000 F Cfa
+108,Neuf,Samsung,55.0 Pouces,419 000 F Cfa
+109,Neuf,Samsung,85.0 Pouces,1 800 000 F Cfa
+110,Neuf,JVC,0.0 Pouces,22 000 F Cfa
+111,Neuf,LG,75.0 Pouces,800 000 F Cfa
+112,Neuf,Autre,43.0 Pouces,125 000 F Cfa
+113,Neuf,Autre,32.0 Pouces,90 000 F Cfa
+114,Neuf,LG,65.0 Pouces,600 000 F Cfa
+115,Neuf,Autre,,350 000 F Cfa
+116,Neuf,Autre,,220 000 F Cfa
+117,Neuf,Autre,55.0 Pouces,190 000 F Cfa
+118,Neuf,Astech,43.0 Pouces,130 000 F Cfa
+119,Neuf,TCL,65.0 Pouces,340 000 F Cfa
+120,Neuf,Autre,65.0 Pouces,270 000 F Cfa
+121,Neuf,Hisense,65.0 Pouces,280 000 F Cfa
+122,Neuf,,55.0 Pouces,210 000 F Cfa
+123,Neuf,Astech,65.0 Pouces,340 000 F Cfa
+124,Neuf,Hisense,,270 000 F Cfa
+125,Neuf,TCL,55.0 Pouces,250 000 F Cfa
+126,Neuf,Hisense,32.0 Pouces,99 900 F Cfa
+127,Neuf,LG,55.0 Pouces,370 000 F Cfa
+128,Neuf,Autre,,105 000 F Cfa
+129,Neuf,LG,65.0 Pouces,1 750 000 F Cfa
+130,Neuf,LG,,850 000 F Cfa
+131,Neuf,TCL,75.0 Pouces,575 000 F Cfa
+132,Neuf,Astech,32.0 Pouces,85 000 F Cfa
+133,Neuf,Astech,,235 000 F Cfa
+134,Neuf,LG,65.0 Pouces,630 000 F Cfa
+135,Neuf,LG,,380 000 F Cfa
+136,Neuf,Samsung,65.0 Pouces,650 000 F Cfa
+137,Neuf,LG,75.0 Pouces,900 000 F Cfa
+138,Neuf,LG,75.0 Pouces,1 450 000 F Cfa
+139,Neuf,Astech,43.0 Pouces,110 000 F Cfa
+140,Neuf,Samsung,32.0 Pouces,115 000 F Cfa
+141,Neuf,Astech,43.0 Pouces,129 000 F Cfa
+142,Neuf,TCL,55.0 Pouces,240 000 F Cfa
+143,Neuf,Astech,50.0 Pouces,205 000 F Cfa
+144,Neuf,Autre,65.0 Pouces,270 000 F Cfa
+145,Neuf,Autre,43.0 Pouces,115 000 F Cfa
+146,Neuf,Samsung,65.0 Pouces,450 000 F Cfa
+147,Neuf,Autre,,190 000 F Cfa
+148,Neuf,Autre,,22 000 F Cfa
+149,Venant,LG,43.0 Pouces,175 000 F Cfa
+150,Neuf,LG,55.0 Pouces,385 000 F Cfa
+151,Neuf,Autre,,10 000 F Cfa
+152,Neuf,Astech,32.0 Pouces,99 900 F Cfa
+153,Neuf,LG,,375 000 F Cfa
+154,Neuf,LG,75.0 Pouces,799 000 F Cfa
+155,Neuf,LG,86.0 Pouces,1 300 000 F Cfa
+156,Neuf,TCL,50.0 Pouces,235 000 F Cfa
+157,Neuf,Samsung,55.0 Pouces,345 000 F Cfa
+158,Neuf,TCL,50.0 Pouces,230 000 F Cfa
+159,Neuf,,,130 000 F Cfa
+160,Neuf,"LG, Samsung,",43.0 Pouces,180 000 F Cfa
+161,Neuf,LG,65.0 Pouces,550 000 F Cfa
+162,Neuf,Autre,32.0 Pouces,85 000 F Cfa
+163,Neuf,Autre,50.0 Pouces,180 000 F Cfa
+164,Neuf,TCL,50.0 Pouces,220 000 F Cfa
+165,Neuf,Samsung,,7 000 F Cfa
+166,Neuf,Astech,43.0 Pouces,135 000 F Cfa
+167,Neuf,TCL,55.0 Pouces,275 000 F Cfa
+168,Neuf,Samsung,65.0 Pouces,
+169,Neuf,LG,,
+170,Neuf,Hisense,75.0 Pouces,700 000 F Cfa
+171,Neuf,Hisense,32.0 Pouces,100 000 F Cfa
+172,Neuf,Hisense,64.0 Pouces,550 F Cfa
+173,Neuf,Hisense,57.9 Pouces,280 000 F Cfa
+174,Neuf,Autre,,270 000 F Cfa
+175,Neuf,Samsung,65.0 Pouces,450 000 F Cfa
+176,Neuf,Samsung,55.0 Pouces,460 000 F Cfa
+177,Neuf,Toshiba,43.0 Pouces,170 000 F Cfa
+178,Neuf,Autre,50.0 Pouces,189 000 F Cfa
+179,Neuf,Autre,32.0 Pouces,78 000 F Cfa
+180,Neuf,Astech,55.0 Pouces,259 000 F Cfa
+181,Neuf,Astech,,17 000 F Cfa
+182,Neuf,Autre,,5 F Cfa
+183,Neuf,Autre,43.8 Pouces,140 000 F Cfa
+184,Neuf,"LG, Samsung,",65.0 Pouces,430 000 F Cfa
+185,Neuf,,43.0 Pouces,
+186,Neuf,Autre,55.0 Pouces,210 000 F Cfa
+187,Neuf,Autre,55.0 Pouces,190 000 F Cfa
+188,Neuf,Autre,65.0 Pouces,270 000 F Cfa
+189,Neuf,TCL,,340 000 F Cfa
+190,Neuf,Autre,40.0 Pouces,105 000 F Cfa
+191,Neuf,Hisense,,275 000 F Cfa
+192,Neuf,Autre,,175 000 F Cfa
+193,Neuf,LG,,1 200 000 F Cfa
+194,Neuf,Autre,32.0 Pouces,80 000 F Cfa
+195,Neuf,Samsung,,
+196,Neuf,Autre,43.0 Pouces,165 000 F Cfa
+197,Neuf,LG,43.0 Pouces,215 000 F Cfa
+198,Neuf,Continental,,145 000 F Cfa
+199,Neuf,Astech,,135 000 F Cfa
+200,Neuf,Astech,55.0 Pouces,240 000 F Cfa
+201,Neuf,Astech,,210 000 F Cfa
+202,Neuf,LG,32.0 Pouces,100 000 F Cfa
+203,Neuf,Autre,55.0 Pouces,199 000 F Cfa
+204,Neuf,Astech,55.0 Pouces,235 000 F Cfa
+205,Neuf,Autre,65.0 Pouces,285 000 F Cfa
+206,Neuf,Autre,,125 000 F Cfa
+207,Neuf,Astech,,130 000 F Cfa
+208,Neuf,LG,43.0 Pouces,229 000 F Cfa
+209,Neuf,LG,65.0 Pouces,1 800 000 F Cfa
+210,Neuf,Autre,54.9 Pouces,260 000 F Cfa
+211,Neuf,Autre,55.0 Pouces,215 000 F Cfa
+212,Neuf,Autre,32.0 Pouces,60 000 F Cfa
+213,Neuf,Roch,43.0 Pouces,149 000 F Cfa
+214,Neuf,Samsung,65.0 Pouces,529 000 F Cfa
+215,Neuf,TCL,65.0 Pouces,349 000 F Cfa
+216,Neuf,TCL,75.0 Pouces,549 000 F Cfa
+217,Neuf,Hisense,65.0 Pouces,
+218,Neuf,LG,55.0 Pouces,380 000 F Cfa
+219,Neuf,Autre,,35 000 F Cfa
+220,Neuf,Autre,50.0 Pouces,185 000 F Cfa
+221,Neuf,Hisense,,330 000 F Cfa
+222,Neuf,Star X,22.0 Pouces,40 000 F Cfa
+223,Neuf,Autre,,210 000 F Cfa
+224,Neuf,Autre,,105 000 F Cfa
+225,Neuf,LG,65.0 Pouces,450 000 F Cfa
+226,Neuf,Astech,,205 000 F Cfa
+227,Neuf,,43.0 Pouces,115 000 F Cfa
+228,Neuf,Astech,43.0 Pouces,130 000 F Cfa
+229,Neuf,Autre,108.0 Pouces,195 000 F Cfa
+230,Neuf,LG,32.0 Pouces,125 000 F Cfa
+231,Neuf,LG,65.0 Pouces,575 000 F Cfa
+232,Neuf,Samsung,70.0 Pouces,750 000 F Cfa
+233,Neuf,"LG, Samsung,",75.0 Pouces,475 000 F Cfa
+234,Neuf,TCL,,5 000 F Cfa
+235,Neuf,,,50 000 F Cfa
+236,D'occasion,Samsung,40.0 Pouces,140 000 F Cfa
+237,Neuf,Philips,65.0 Pouces,550 000 F Cfa
+238,Venant,Samsung,50.0 Pouces,215 000 F Cfa
+239,Neuf,Hisense,58.0 Pouces,350 000 F Cfa
+240,Neuf,Hisense,65.0 Pouces,550 000 F Cfa
+241,Neuf,Autre,,299 000 F Cfa
+242,Venant,Sony,32.0 Pouces,55 000 F Cfa
+243,Neuf,All Star,,70 000 F Cfa
+244,Neuf,Autre,65.0 Pouces,299 900 F Cfa
+245,Neuf,Autre,,325 000 F Cfa
+246,Neuf,Samsung,55.0 Pouces,425 000 F Cfa
+247,Neuf,Sony,,185 000 F Cfa
+248,Neuf,Autre,,30 000 F Cfa
+249,Neuf,Autre,"2,160.0 Pouces",25 000 F Cfa
+250,Neuf,Astech,55.0 Pouces,240 000 F Cfa
+251,Neuf,Autre,50.0 Pouces,175 000 F Cfa
+252,Neuf,Autre,55.0 Pouces,190 000 F Cfa
+253,Neuf,Astech,65.0 Pouces,340 000 F Cfa
+254,Neuf,Autre,,75 000 F Cfa
+255,Neuf,Autre,55.0 Pouces,235 000 F Cfa
+256,Neuf,Autre,43.0 Pouces,119 000 F Cfa
+257,Neuf,Autre,43.0 Pouces,129 000 F Cfa
+258,Neuf,Autre,55.0 Pouces,229 000 F Cfa
+259,Neuf,Autre,65.0 Pouces,298 000 F Cfa
+260,Neuf,Autre,75.0 Pouces,469 000 F Cfa
+261,Neuf,Star X,32.0 Pouces,109 000 F Cfa
+262,Neuf,LG,43.0 Pouces,150 000 F Cfa
+263,Neuf,Hisense,43.0 Pouces,160 F Cfa
+264,Neuf,Haier,43.0 Pouces,99 900 F Cfa
+265,Neuf,Samsung,32.0 Pouces,145 000 F Cfa
+266,Neuf,Schneider,"2,160.0 Pouces",
+267,Neuf,Autre,65.0 Pouces,295 000 F Cfa
+268,Neuf,LG,70.0 Pouces,750 000 F Cfa
+269,Neuf,VIZIO,65.0 Pouces,430 001 F Cfa
+270,Neuf,Autre,43.0 Pouces,120 000 F Cfa
+271,Neuf,Autre,43.0 Pouces,115 000 F Cfa
+272,Neuf,Autre,55.0 Pouces,220 000 F Cfa
+273,Neuf,Autre,43.0 Pouces,120 000 F Cfa
+274,Neuf,Autre,65.0 Pouces,285 000 F Cfa
+275,Neuf,Autre,32.0 Pouces,80 000 F Cfa
+276,Neuf,Autre,,140 000 F Cfa
+277,Neuf,Autre,32.0 Pouces,79 000 F Cfa
+278,Neuf,Autre,86.0 Pouces,825 000 F Cfa
+279,Neuf,Autre,65.0 Pouces,279 000 F Cfa
+280,Neuf,,,2 500 F Cfa
+281,D'occasion,Autre,32.0 Pouces,60 000 F Cfa
+282,Neuf,Astech,43.0 Pouces,50 000 F Cfa
+283,Neuf,LG,55.0 Pouces,350 000 F Cfa
+284,Neuf,Astech,65.0 Pouces,340 000 F Cfa
+285,Réconditionné,Autre,,160 000 F Cfa
+286,Neuf,Autre,43.0 Pouces,129 000 F Cfa
+287,Neuf,LG,86.0 Pouces,1 250 000 F Cfa
+288,Neuf,Hisense,100.0 Pouces,25 F Cfa
+289,Neuf,Hisense,,290 000 F Cfa
+290,Neuf,Sony,,599 000 F Cfa
+291,Neuf,Sony,,550 000 F Cfa
+292,Neuf,Autre,64.9 Pouces,295 000 F Cfa
+293,Neuf,Autre,,35 000 F Cfa
+294,Neuf,Autre,43.0 Pouces,120 000 F Cfa
+295,Neuf,Astech,32.0 Pouces,85 000 F Cfa
+296,Neuf,Autre,40.0 Pouces,105 000 F Cfa
+297,Neuf,Astech,50.0 Pouces,250 000 F Cfa
+298,Neuf,Star,32.0 Pouces,89 000 F Cfa
+299,Neuf,TCL,65.1 Pouces,365 000 F Cfa
+300,Neuf,LG,43.0 Pouces,230 000 F Cfa
+301,Neuf,Autre,50.0 Pouces,260 000 F Cfa
+302,Neuf,Astech,43.0 Pouces,150 000 F Cfa
+303,Neuf,Sony,75.0 Pouces,1 200 000 F Cfa
+304,Neuf,Autre,,
+305,Neuf,Autre,"95,000.0 Pouces",120 000 F Cfa
+306,Neuf,Astech,,240 000 F Cfa
+307,Neuf,,,
+308,Neuf,Samsung,43.0 Pouces,245 000 F Cfa
+309,Neuf,Sony,65.0 Pouces,950 000 F Cfa
+310,Neuf,Autre,55.0 Pouces,220 000 F Cfa
+311,Neuf,Samsung,55.0 Pouces,355 000 F Cfa
+312,Neuf,Autre,,3 500 F Cfa
+313,Neuf,TCL,43.0 Pouces,165 000 F Cfa
+314,Neuf,Autre,55.0 Pouces,225 000 F Cfa
+315,Neuf,Astech,125.0 Pouces,
+316,Neuf,LG,,500 000 F Cfa
+317,Neuf,Astech,,425 000 F Cfa
+318,Neuf,"LG, Samsung, Heseinse, Vizio, JVC, Philips, TCL etc.",70.0 Pouces,574 999 F Cfa
+319,Neuf,Vizio,43.0 Pouces,159 000 F Cfa
+320,Neuf,LG,47.0 Pouces,200 000 F Cfa
+321,Neuf,Autre,,130 000 F Cfa
+322,Neuf,LG,,5 000 F Cfa
+323,Neuf,Haier,43.0 Pouces,130 000 F Cfa
+324,Neuf,Samsung,75.0 Pouces,700 000 F Cfa
+325,Neuf,LG,43.0 Pouces,235 000 F Cfa
+326,Neuf,Samsung,43.0 Pouces,245 000 F Cfa
+327,Neuf,TCL,55.0 Pouces,275 000 F Cfa
+328,Neuf,"LG, Samsung etc.",24.0 Pouces,85 000 F Cfa
+329,Neuf,Autre,,17 000 F Cfa
+330,Neuf,General Max,,10 F Cfa
+331,Venant,Panasonic,50.0 Pouces,190 000 F Cfa
+332,Neuf,Hisense,75.0 Pouces,798 000 F Cfa
+333,Neuf,Hisense,32.0 Pouces,78 000 F Cfa
+334,Neuf,Panasonic,65.0 Pouces,1 500 000 F Cfa
+335,Neuf,Autre,,179 900 F Cfa
+336,Neuf,Autre,,84 900 F Cfa
+337,Neuf,Autre,,224 900 F Cfa
+338,Neuf,LG,43.0 Pouces,250 000 F Cfa
+339,Neuf,Samsung,43.0 Pouces,250 000 F Cfa
+340,Neuf,Hisense,32.0 Pouces,79 000 F Cfa
+341,Neuf,Hisense,65.0 Pouces,598 000 F Cfa
+342,Neuf,LG,55.0 Pouces,349 000 F Cfa
+343,Neuf,LG,,240 000 F Cfa
+344,Neuf,Autre,,20 000 F Cfa
+345,Neuf,"LG, Samsung, Heseinse, Vizio, Onn, TCL, Philips etc.",50.0 Pouces,340 000 F Cfa
+346,Neuf,"Samsung, Heseinse",58.0 Pouces,285 000 F Cfa
+347,Neuf,VIZIO,,249 000 F Cfa
+348,Neuf,Astech,43.0 Pouces,130 000 F Cfa
+349,Neuf,LG,70.0 Pouces,700 000 F Cfa
+350,D'occasion,Samsung,101.0 Pouces,250 000 F Cfa
+351,D'occasion,LG,,25 000 F Cfa
+352,Neuf,Autre,43.0 Pouces,112 500 F Cfa
+353,Neuf,All Star,32.0 Pouces,55 000 F Cfa
+354,Venant,Panasonic,55.0 Pouces,275 000 F Cfa
+355,D'occasion,Samsung,49.0 Pouces,250 000 F Cfa
+356,Venant,LG,65.0 Pouces,400 000 F Cfa
+357,Neuf,Continental,43.0 Pouces,150 000 F Cfa
+358,Venant,Samsung,43.0 Pouces,160 000 F Cfa
+359,Neuf,Amazon,,30 000 F Cfa
+360,Neuf,Hisense,75.0 Pouces,600 000 F Cfa
+361,Neuf,Astech,65.0 Pouces,350 000 F Cfa
+362,Neuf,TCL,43.0 Pouces,189 000 F Cfa
+363,Neuf,Autre,43.0 Pouces,120 000 F Cfa
+364,Neuf,Astech,32.0 Pouces,60 000 F Cfa
+365,Neuf,Autre,32.0 Pouces,145 000 F Cfa
+366,Neuf,Autre,75.0 Pouces,469 000 F Cfa
+367,Neuf,Autre,55.0 Pouces,219 000 F Cfa
+368,Neuf,Autre,65.0 Pouces,289 000 F Cfa
+369,Neuf,Samsung,85.0 Pouces,1 500 000 F Cfa
+370,Neuf,Sony,139.0 Pouces,499 000 F Cfa
+371,Neuf,Autre,,115 000 F Cfa
+372,Neuf,Autre,75.0 Pouces,510 000 F Cfa
+373,Neuf,Autre,55.0 Pouces,240 000 F Cfa
+374,Neuf,Autre,65.0 Pouces,330 000 F Cfa
+375,Neuf,Autre,86.0 Pouces,820 000 F Cfa
+376,Neuf,Autre,43.0 Pouces,130 000 F Cfa
+377,Neuf,Autre,32.0 Pouces,99 900 F Cfa
+378,Neuf,Hisense,75.0 Pouces,100 000 F Cfa
+379,Neuf,Hisense,43.0 Pouces,160 000 F Cfa
+380,Neuf,Samsung,163.0 Pouces,899 000 F Cfa
+381,Neuf,Haier,32.0 Pouces,85 000 F Cfa
+382,Neuf,Hisense,65.0 Pouces,650 000 F Cfa
+383,Neuf,Hisense,75.0 Pouces,860 000 F Cfa
+384,Neuf,"LG, Samsung, Heseinse, Vizio, Onn, Philips etc.",32.0 Pouces,135 000 F Cfa
+385,Neuf,Onn,32.0 Pouces,119 999 F Cfa
+386,Venant,Sharp,32.0 Pouces,75 000 F Cfa
+387,Venant,Panasonic,47.0 Pouces,165 000 F Cfa
+388,Neuf,Sony,77.0 Pouces,2 900 000 F Cfa
+389,Neuf,Toshiba,77.0 Pouces,750 000 F Cfa
+390,Neuf,Star,24.0 Pouces,59 000 F Cfa
+391,Neuf,Autre,,55 000 F Cfa
+392,Neuf,Autre,1.0 Pouces,30 000 F Cfa
+393,Neuf,TCL,65.0 Pouces,380 000 F Cfa
+394,Neuf,Autre,40.0 Pouces,120 000 F Cfa
+395,Neuf,Samsung,70.0 Pouces,750 000 F Cfa
+396,Neuf,Philips,65.0 Pouces,550 000 F Cfa
+397,D'occasion,Autre,,30 000 F Cfa
+398,Neuf,Autre,,185 000 F Cfa
+399,Neuf,Autre,,224 900 F Cfa
+400,Neuf,Autre,,45 000 F Cfa
+401,Neuf,Astech,50.0 Pouces,250 000 F Cfa
+402,Neuf,Astech,55.0 Pouces,300 000 F Cfa
+403,Neuf,LG,3.0 Pouces,30 000 F Cfa
+404,Neuf,Autre,,125 000 F Cfa
+405,Neuf,Samsung,55.0 Pouces,380 000 F Cfa
+406,Venant,Samsung,75.0 Pouces,650 000 F Cfa
+407,Neuf,Autre,55.0 Pouces,215 000 F Cfa
+408,Neuf,Astech,32.0 Pouces,85 000 F Cfa
+409,Neuf,Autre,32.0 Pouces,60 000 F Cfa
+410,Neuf,Astech,32.0 Pouces,65 000 F Cfa
+411,Neuf,Astech,43.0 Pouces,135 000 F Cfa
+412,Neuf,Astech,32.0 Pouces,99 900 F Cfa
+413,Neuf,LG,75.0 Pouces,700 000 F Cfa
+414,Neuf,LG,,145 000 F Cfa
+415,Neuf,Samsung,,
+416,Neuf,Samsung,,
+417,Neuf,TCL,32.0 Pouces,100 000 F Cfa
+418,Venant,Autre,,70 000 F Cfa
+419,Neuf,Autre,,45 000 F Cfa
+420,Neuf,Samsung,,5 000 F Cfa
+421,Neuf,Autre,,4 000 F Cfa
+422,Neuf,OEM,"1,280.0 Pouces",175 000 F Cfa
+423,Neuf,TCL,43.0 Pouces,175 000 F Cfa
+424,Neuf,Astech,65.0 Pouces,420 000 F Cfa
+425,Neuf,Astech,65.0 Pouces,390 000 F Cfa
+426,Neuf,Autre,32.0 Pouces,110 000 F Cfa
+427,Neuf,Samsung,75.0 Pouces,890 000 F Cfa
+428,Venant,Autre,32.0 Pouces,45 000 F Cfa
+429,Neuf,Autre,55.0 Pouces,210 000 F Cfa
+430,Neuf,Autre,,
+431,Neuf,Samsung,50.0 Pouces,325 000 F Cfa
+432,Neuf,West,40.0 Pouces,105 000 F Cfa
+433,Neuf,Autre,32.0 Pouces,75 000 F Cfa
+434,Neuf,TCL,55.0 Pouces,240 000 F Cfa
+435,Neuf,Autre,,215 000 F Cfa
+436,Neuf,Autre,,179 900 F Cfa
+437,Neuf,Autre,,129 900 F Cfa
+438,Neuf,TCL,,105 000 F Cfa
+439,Neuf,Star,,70 000 F Cfa
+440,Neuf,,,20 000 F Cfa
+441,Neuf,Samsung,65.0 Pouces,650 000 F Cfa
+442,Neuf,,,35 000 F Cfa
+443,Neuf,Samsung,43.0 Pouces,260 000 F Cfa
+444,Neuf,Samsung,55.0 Pouces,390 000 F Cfa
+445,Neuf,Astech,65.0 Pouces,390 000 F Cfa
+446,Neuf,Astech,32.0 Pouces,130 000 F Cfa
+447,Neuf,Star,32.0 Pouces,85 000 F Cfa
+448,Neuf,Apple,,129 000 F Cfa
+449,Neuf,LG,27.0 Pouces,199 000 F Cfa
+450,Neuf,Star,43.0 Pouces,145 000 F Cfa
+451,Neuf,Star,40.0 Pouces,125 000 F Cfa
+452,Neuf,Astech,43.0 Pouces,159 900 F Cfa
+453,Neuf,Samsung,65.0 Pouces,550 000 F Cfa
+454,Neuf,Samsung,65.0 Pouces,600 000 F Cfa
+455,Neuf,Samsung,65.0 Pouces,600 000 F Cfa
+456,Neuf,Samsung,65.0 Pouces,570 000 F Cfa
+457,Neuf,Samsung,65.0 Pouces,600 000 F Cfa
+458,Neuf,Westpool,55.0 Pouces,310 000 F Cfa
+459,Neuf,Star,32.0 Pouces,89 000 F Cfa
+460,Neuf,LG,86.0 Pouces,1 500 000 F Cfa
+461,Neuf,Samsung,86.0 Pouces,1 200 000 F Cfa
+462,Neuf,Astech,43.0 Pouces,159 000 F Cfa
+463,Neuf,LG,75.0 Pouces,800 000 F Cfa
+464,Neuf,Smart,75.0 Pouces,650 000 F Cfa
+465,Neuf,Autre,60.0 Pouces,400 000 F Cfa
+466,Neuf,Westpool,,1 F Cfa
+467,Neuf,Samsung,5.0 Pouces,30 000 F Cfa
+468,Neuf,Astech,75.0 Pouces,549 000 F Cfa
+469,Neuf,Astech,65.0 Pouces,369 000 F Cfa
+470,Neuf,Astech,43.0 Pouces,139 000 F Cfa
+471,Neuf,LG,43.0 Pouces,285 000 F Cfa
+472,Neuf,Samsung,43.0 Pouces,275 000 F Cfa
+473,Neuf,Astech,65.0 Pouces,380 000 F Cfa
+474,Neuf,Samsung,65.0 Pouces,620 000 F Cfa
+475,Neuf,LG,43.0 Pouces,265 000 F Cfa
+476,D'occasion,LG,75.0 Pouces,800 000 F Cfa
+477,Neuf,Autre,,60 000 F Cfa
+478,Neuf,Samsung,50.0 Pouces,320 000 F Cfa
+479,Neuf,Haier,32.0 Pouces,100 000 F Cfa
+480,Neuf,Astech,75.0 Pouces,650 000 F Cfa
+481,Neuf,LG,75.0 Pouces,850 000 F Cfa
+482,Neuf,Autre,,3 000 F Cfa
+483,Neuf,Samsung,55.0 Pouces,400 000 F Cfa
+484,Neuf,Astech,,75 000 F Cfa
+485,Neuf,Samsung,70.0 Pouces,700 000 F Cfa
+486,Neuf,Autre,43.0 Pouces,150 000 F Cfa
+487,Neuf,Autre,,20 000 F Cfa
+488,Neuf,,,
+489,Neuf,Westpool,,
+490,Neuf,Samsung,,320 000 F Cfa
+491,Neuf,Autre,64.9 Pouces,320 000 F Cfa
+492,Neuf,TCL,65.0 Pouces,340 000 F Cfa
+493,Neuf,Astech,43.0 Pouces,160 000 F Cfa
+494,Neuf,Samsung,75.0 Pouces,900 000 F Cfa
+495,Neuf,LG,65.0 Pouces,600 000 F Cfa
+496,Neuf,Samsung,65.0 Pouces,510 000 F Cfa
+497,Neuf,Autre,55.0 Pouces,410 000 F Cfa
+498,Neuf,Haier,32.0 Pouces,85 000 F Cfa
+499,Neuf,LG,43.0 Pouces,242 000 F Cfa
+500,Neuf,Samsung,75.0 Pouces,857 000 F Cfa

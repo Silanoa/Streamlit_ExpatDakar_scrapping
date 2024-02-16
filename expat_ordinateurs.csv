@@ -1,0 +1,503 @@
+,Etat_ordinateur,Marque,Couleur,Processeur,Ram,Stockage,Prix
+0,Venant,HP,,14 POUCES,8,256Go,250 000 F Cfa
+1,Venant,HP,,,8,500,200 000 F Cfa
+2,Venant,Dell,,Core I5,8,500,150 000 F Cfa
+3,Neuf,Lenovo,Gris,I7,16GB,1TB,460 000 F Cfa
+4,Neuf,Dell,noir,i7,32GB,1TB,950 000 F Cfa
+5,Neuf,Dell,,i5,8gb,256gb,450 000 F Cfa
+6,Venant,HP,Gris,I7 11th GEN,16,1000,625 000 F Cfa
+7,Neuf,Dell,Gris,i9,16Go,1To,750 000 F Cfa
+8,Neuf,HP,Gris,Core i7 12th gen,16gb,512 ssd,700 000 F Cfa
+9,Neuf,Apple,Gris sidéral,Intel cor i7,16g,512ssd,550 000 F Cfa
+10,Neuf,Lenovo,Black,I5,32Go,512Go,550 000 F Cfa
+11,Neuf,HP,Gris sidéral,Intel cor i7 de 13th génération,16g,SSD 512g,500 000 F Cfa
+12,Venant,Apple,Argentin,Core i5 2.5ghz,8giga,500giga,180 000 F Cfa
+13,Venant,HP,Noire,Intel dual,Ram 4 go,500 go,55 000 F Cfa
+14,Venant,Apple,,i7,16 Go,256 Go ssd,250 000 F Cfa
+15,Venant,Apple,,i7,16 Go,256 Go ssd,275 000 F Cfa
+16,Venant,HP,Grise,I7,16,512,580 000 F Cfa
+17,Venant,Lenovo,Noir,I5,8,512,225 000 F Cfa
+18,Venant,Apple,Gris,I5,8,512,275 000 F Cfa
+19,Venant,Dell,noir,,4,128 go ssd,75 000 F Cfa
+20,Venant,HP,,,,,60 000 F Cfa
+21,Neuf,Lenovo,,Dual Core,4Go,256Go SSD,154 899 F Cfa
+22,Venant,HP,Grise,Core i5,8Go DDR4,SSD 256Go (extensible à 512Go),245 000 F Cfa
+23,Neuf,HP,Bleue et Noire,Intel Silver,8Giga,256Giga ssd,130 000 F Cfa
+24,Neuf,HP,Grise,Corei7 et Corei5,16,512Giga Ssd,500 000 F Cfa
+25,Neuf,HP,Grise,Corei5,8,256Giga ssd,200 000 F Cfa
+26,Venant,HP,,,,,270 000 F Cfa
+27,Venant,HP,,,8,256gb,200 000 F Cfa
+28,Venant,HP,,,4,128gb,90 000 F Cfa
+29,Neuf,Microsoft Surface,Noir et Transparent,,,,20 000 F Cfa
+30,Neuf,Lenovo,,,4,,199 000 F Cfa
+31,Neuf,Dell,,i7 12eme Generation,32Go,SSD 512Go,600 000 F Cfa
+32,Neuf,Microsoft Surface,,,,,15 000 F Cfa
+33,Neuf,Apple,,M2,8GB,256GB,449 000 F Cfa
+34,Venant,Apple,Gris sidéral,M2 max,64,1000go ssd,1 750 000 F Cfa
+35,Réconditionné,HP,Gris,Dual core,4giga,320giga,99 900 F Cfa
+36,Venant,HP,Noir,Intel dual core,4giga,500giga,115 000 F Cfa
+37,Venant,HP,,,,256,200 000 F Cfa
+38,Réconditionné,HP,Gris,Intel core i5,8giga,500giga,165 000 F Cfa
+39,Venant,Dell,Noire,Intel,16go,256ssd,170 000 F Cfa
+40,Neuf,Lenovo,noir,Quad core,4,320,80 000 F Cfa
+41,Venant,HP,Gris,Intel,8,500,200 000 F Cfa
+42,Venant,Dell,Gris,I7,17,512,450 000 F Cfa
+43,Venant,Apple,,Core i3,8 Go,500 Go,135 000 F Cfa
+44,Neuf,Dell,Noir,Intel,8go,128go,94 900 F Cfa
+45,Venant,HP,grise,duo,4,500,95 000 F Cfa
+46,Neuf,Apple,,M2 PRO,16,512,999 000 F Cfa
+47,Neuf,HP,Gris / noir,Core i7 de 17 éme gén,16 giga,1 tera SSD,1 200 000 F Cfa
+48,Neuf,Lenovo,NOIRE,Ryzen 5 Pro,16,256,250 000 F Cfa
+49,Venant,HP,NOIR-ROUGE,2.4 GHz,16,512 SSD,380 000 F Cfa
+50,Venant,Dell,GRIS,I5,16 GB,512 SSD,460 000 F Cfa
+51,Neuf,Autre,Grise,,,,35 000 F Cfa
+52,Neuf,HP,,,8,256ssd,260 000 F Cfa
+53,Venant,Dell,,,,,95 000 F Cfa
+54,Réconditionné,Lenovo,NOIR,CORE I7,16GO,512SSD,300 000 F Cfa
+55,Venant,Lenovo,Noire,I7,16,512,600 000 F Cfa
+56,Réconditionné,HP,GRIS,CORE I7,16GO,512 SSD,300 000 F Cfa
+57,Venant,Lenovo,,i5,8,500,210 000 F Cfa
+58,Réconditionné,HP,GRIS NOIR,CORE I7,16GO,500GO,275 000 F Cfa
+59,Réconditionné,Dell,"ROUGE, NOIR, JAUNE, GRISE, BLEU,.......I",Intel,4GO,128GO,70 000 F Cfa
+60,Neuf,Apple,Silver,,8,512,600 000 F Cfa
+61,Neuf,Apple,Silver,,8,256,450 000 F Cfa
+62,Venant,Apple,Gris,M1,8,512GB,595 000 F Cfa
+63,Venant,Apple,Argent,Corei7,16,256,480 000 F Cfa
+64,Venant,Dell,,i5 8th,8,256 go ssd,190 000 F Cfa
+65,Venant,Lenovo,,duo,4,500,85 000 F Cfa
+66,Neuf,Dell,gris,core i7,8gb,256gb,570 000 F Cfa
+67,Neuf,Dell,Noir,i5 11eme Generation 3.0Ghz,32Go,512Go SSD,350 000 F Cfa
+68,Neuf,Dell,gris,I5-11Th,8 go,256ssd,370 000 F Cfa
+69,Neuf,Microsoft Surface,Silver,SQ2,16,512,850 000 F Cfa
+70,Neuf,HP,Gris,Core i5 13th gen,16gb,512 ssd,650 000 F Cfa
+71,Neuf,Lenovo,Noire,i7 10ème Génération,32Go DDR4 (extensible à 64Go),SSD 1To (2nd slot libre),475 000 F Cfa
+72,Venant,Lenovo,Noire,Core i5,16go,512ssd,230 000 F Cfa
+73,Neuf,Apple,Bleu,M2,8go,256ssd,750 000 F Cfa
+74,Venant,Lenovo,,i7,8 Go,500 Go,100 000 F Cfa
+75,Venant,Lenovo,,i5 4th,8,500 go hdd ou 128 go ssd,120 000 F Cfa
+76,Neuf,Apple,Noir,M3 MAX,36,1TB,2 499 000 F Cfa
+77,Neuf,HP,Black gold,i7,8 go,512SSD,410 000 F Cfa
+78,Venant,Lenovo,grise,i5,16,256 et 1000,350 000 F Cfa
+79,Venant,Dell,GRISE,i5,4,250,80 000 F Cfa
+80,Neuf,Lenovo,Noir,Intel core i7 10th,32 GB,1 Tera,490 000 F Cfa
+81,Venant,Dell,,,,,200 000 F Cfa
+82,Venant,Dell,Gris,i5,8Go,512Go,350 000 F Cfa
+83,Venant,HP,,,,,165 000 F Cfa
+84,Venant,Lenovo,,,,,85 000 F Cfa
+85,Venant,Dell,Gris noir,I7,32,512 go,480 F Cfa
+86,D'occasion,HP,,,,,105 000 F Cfa
+87,Venant,HP,,I7,16,1000,429 900 F Cfa
+88,Neuf,HP,Grise,Corei7,16,512Ssd,285 000 F Cfa
+89,Neuf,HP,Grise,Corei7,16,512Ssd,340 000 F Cfa
+90,Neuf,Autre,Blanc,"3210M, RAM 8GB,",8GB,512GB,499 000 F Cfa
+91,Venant,Lenovo,Noir,Core i3,8,500,120 000 F Cfa
+92,Venant,Lenovo,Black,I5,16Go,256Go,480 000 F Cfa
+93,Neuf,Apple,Space Gray,M1,8Go,256Go,650 000 F Cfa
+94,Venant,Apple,Minight,M2,8Go,256Go,800 000 F Cfa
+95,Venant,Apple,Space Gray,M2,8Go,256Go,750 000 F Cfa
+96,Venant,Apple,Silver,M1,8Go,256Go,550 000 F Cfa
+97,Venant,Apple,Space Gray,M1,8Go,256Go,620 000 F Cfa
+98,Venant,Apple,Silver,I5,8Go,256Go,550 000 F Cfa
+99,Venant,Acer,Noir,Ryzen 9,32,1,950 000 F Cfa
+100,Venant,Apple,Gris,i7,8Go,256 SSD,230 000 F Cfa
+101,Neuf,HP,Gris,Core i5,16go,750go,240 000 F Cfa
+102,Neuf,Apple,Gris,M2,8go,256go,690 000 F Cfa
+103,Venant,Lenovo,noire,i7 2.8,16,512,210 000 F Cfa
+104,Neuf,Apple,silver,M1 Pro,16gb,256gb,950 000 F Cfa
+105,Venant,Lenovo,,Amd A8,8 Go,500 Go,100 000 F Cfa
+106,Venant,Lenovo,,i7,16 Go,256 Go ssd,250 000 F Cfa
+107,Venant,Dell,,Core i5,8 Go,256 Go ssd,135 000 F Cfa
+108,Réconditionné,HP,GRIS NOIR,CORE I5,16GO,256Go SSD,275 000 F Cfa
+109,Neuf,HP,gris,I7-12Th,16GO,512SSD,700 000 F Cfa
+110,Neuf,HP,Grise,Corei5,8,256giga ssd,220 000 F Cfa
+111,Neuf,HP,noir,i7,16 go,512 ssd,850 000 F Cfa
+112,Neuf,HP,Grise,Corei7,16,512,285 000 F Cfa
+113,Venant,Microsoft Surface,Black,I7,16Go,256Go,400 000 F Cfa
+114,Venant,ASUS,Gray,Ryzen 7,8Go,256Go,430 000 F Cfa
+115,Neuf,HP,Gris,I5,8Go,256 SSD,250 000 F Cfa
+116,Venant,HP,Silver,i7,16,1000,300 000 F Cfa
+117,Venant,HP,Gris,i7,16,256,280 000 F Cfa
+118,Neuf,HP,Gris,i7,16,512,450 000 F Cfa
+119,Venant,Microsoft Surface,Rose Gold,i5,8,256,270 000 F Cfa
+120,Neuf,Microsoft Surface,GRIS,I7,16GB,512GB,850 000 F Cfa
+121,Neuf,Dell,BLEU,i7,32GB,1TB,650 000 F Cfa
+122,Neuf,Razer blade,blanc,i7,16gb,512gb,550 000 F Cfa
+123,Venant,Microsoft Surface,Gris,i7,8,256,360 000 F Cfa
+124,Venant,HP,,i5 7TH,8,256 go ssd,185 000 F Cfa
+125,Neuf,HP,noir,4,,23,8 000 F Cfa
+126,Venant,Dell,Black,I5,8Go,256 Go,300 000 F Cfa
+127,Neuf,HP,Gray,I5,16 Go,256 Go,550 000 F Cfa
+128,Neuf,HP,Niort,M3,8,256,115 000 F Cfa
+129,Neuf,Lenovo,BLEU,CORE I7,36,1 TERA,725 000 F Cfa
+130,Venant,Dell,,i5,8 Go,256 Go ssd,150 000 F Cfa
+131,Neuf,Lenovo,Noire,I5,16,512,285 000 F Cfa
+132,Neuf,Apple,Gris,M1,16,512,500 000 F Cfa
+133,Venant,Apple,Gris,I7,16,512,375 000 F Cfa
+134,Venant,HP,,CORE I5,8,500,110 000 F Cfa
+135,Neuf,HP,,i7,32GB,1TB,999 000 F Cfa
+136,Neuf,MSI,,i7,32 Go,1 To,999 000 F Cfa
+137,Venant,Apple,,Core i5,8GO,500GO,125 000 F Cfa
+138,Venant,Lenovo,Noir,,32 GB,,400 000 F Cfa
+139,Neuf,HP,Grise,Corei5,8,256giga ssd,220 000 F Cfa
+140,Neuf,HP,Grise,Corei7,16,512ssd,285 000 F Cfa
+141,Venant,HP,,I7,16,500,215 000 F Cfa
+142,Neuf,Dell,Gris,i9,16Go,1To,650 000 F Cfa
+143,Neuf,Dell,Gris,i5,16Go,512Go,450 000 F Cfa
+144,Neuf,Lenovo,Noire,Intel core i7-11850H,32Go,1000Go SSD,590 000 F Cfa
+145,Neuf,Dell,noire,i5,8,10000,350 000 F Cfa
+146,Neuf,HP,,,,,169 994 F Cfa
+147,Neuf,MSI,Noir,Core i5-10300H 2.50Ghz,16 Go,512 Go SSD m2,400 000 F Cfa
+148,Neuf,Lenovo,Noir matt,I9,32Go,1Terra,550 000 F Cfa
+149,Venant,Lenovo,,Core i5,6g,750g,85 000 F Cfa
+150,Neuf,Dell,blanc,3,5,t,2 500 F Cfa
+151,Venant,Apple,Space Gray,I5,8Go,128 Go,400 000 F Cfa
+152,Venant,Apple,Silver,I7,,512Go,520 000 F Cfa
+153,Neuf,Apple,,M2,8GB,512GB,800 000 F Cfa
+154,Venant,Dell,Argenté,i7 11e génération,16 g,512,650 000 F Cfa
+155,Venant,Autre,,,,,1 000 F Cfa
+156,Neuf,HP,Noir,,8,512,390 000 F Cfa
+157,Neuf,HP,Gary,,8,512,290 000 F Cfa
+158,Neuf,HP,Noir,,4,1t,275 000 F Cfa
+159,Neuf,HP,Noir,,4,1t,185 000 F Cfa
+160,Neuf,HP,Noir,,8,1t,385 000 F Cfa
+161,Neuf,Dell,GRIS,AMD RYZEN 7 5825U with Radeon Graphics,32GB,512GB SSD,580 000 F Cfa
+162,Neuf,Lenovo,NOIR,I7,16,512GB,650 000 F Cfa
+163,Venant,Apple,Gris sidéral,Ciré i7,16Go,512Go,550 000 F Cfa
+164,Venant,HP,Noir,AMD PRO A10_8730B R5,16GB,512GB SSD,180 000 F Cfa
+165,D'occasion,HP,,i5,8 Go,256 Go ssd,190 000 F Cfa
+166,Venant,HP,Noir,i5,8,500 go hdd,135 000 F Cfa
+167,Neuf,Apple,Gris sidéral,,8GB,256GB,525 000 F Cfa
+168,Venant,HP,Noir,,,,130 F Cfa
+169,Neuf,HP,Gris argent,I5,8Go,256 SSD,250 000 F Cfa
+170,Venant,HP,,Core 2,4g,128ssd,70 000 F Cfa
+171,Venant,Apple,GRIS,DUO CORE,4GO,500 Go,65 000 F Cfa
+172,Neuf,Apple,Bleu,M2,8Go,256 SSD,700 000 F Cfa
+173,Neuf,HP,Grise,Corei5,8,256ssd,220 000 F Cfa
+174,Neuf,HP,Grise,Corei5,8,256,200 000 F Cfa
+175,Neuf,HP,Grise,Corei7,16,512,350 000 F Cfa
+176,Venant,Apple,Rose,i5,8,128,350 000 F Cfa
+177,Venant,Dell,,,8,256,100 000 F Cfa
+178,Venant,Dell,Noir,250g,8,,80 000 F Cfa
+179,Neuf,Dell,,14 POUCES,8,256,350 000 F Cfa
+180,Venant,HP,GRIS,Intel Core i5 (4 CPUs) 2.5GHz,8 GB,256GB SSD,180 000 F Cfa
+181,Venant,Microsoft Surface,GRIS,Cor i7,8GO,256SSD,250 000 F Cfa
+182,Neuf,MSI,Noir,i7,32Go,SSD 512Go,500 000 F Cfa
+183,Neuf,Apple,Bleu/ Silver,M3,8,256,1 199 000 F Cfa
+184,Neuf,Apple,Gris,i9,32Go,SSD 512Go,600 000 F Cfa
+185,Venant,Dell,Grise,2.5,16go,512go.,450 000 F Cfa
+186,Venant,HP,Grise Argentée,2.4GHZ,16GO,512go,349 997 F Cfa
+187,Neuf,Apple,Midnight,M2,8,256,949 000 F Cfa
+188,Venant,HP,GRIS,AMD Ryzen 7 PRO 4750U with Radeon Graphics,16GB,512GB SSD,450 000 F Cfa
+189,Venant,Lenovo,,,8,500go,130 000 F Cfa
+190,Venant,Dell,,,8,500,150 000 F Cfa
+191,Venant,Dell,,,8,500,135 000 F Cfa
+192,Venant,Dell,BLEU ✅,Core i5 ✅,16 GO ✅,500 GO SSD ✅,250 000 F Cfa
+193,Venant,Lenovo,NOIR ✅,CORE i5 ✅,16 GO ✅,256 GO SSD ✅,175 000 F Cfa
+194,Venant,HP,NOIR,cor i5,8go,500 Go,125 000 F Cfa
+195,Neuf,Acer,Noir,Core i7-11800H 3.20Ghz,16 Go,1 To SSD m2,850 000 F Cfa
+196,Venant,Lenovo,Noir,i5,16,512,325 000 F Cfa
+197,Venant,HP,,i5 8e génération,8,256,180 000 F Cfa
+198,Venant,Dell,Grise,Intel core i7,8,256,250 000 F Cfa
+199,Venant,HP,,14 pouces,8,256Go,230 000 F Cfa
+200,Venant,Apple,,,8,1tera,300 000 F Cfa
+201,Neuf,Dell,,corei5/i7,8gb/16gb,256/500go,125 000 F Cfa
+202,Venant,HP,,corei3/i5,4/8go,500,100 000 F Cfa
+203,Neuf,Microsoft Surface,NIOR,3,4,23,30 000 F Cfa
+204,Neuf,Dell,Noir Carbonne,Core i7,16,512,230 000 F Cfa
+205,Venant,Dell,Gris,3.20zh core i7,16,500,320 000 F Cfa
+206,Neuf,Dell,Noir,3.20,16,256,125 000 F Cfa
+207,Neuf,HP,Grise,Corei7,16,512,285 000 F Cfa
+208,Venant,HP,,,,,60 000 F Cfa
+209,D'occasion,Apple,,,,,650 000 F Cfa
+210,Venant,Dell,,,,,165 000 F Cfa
+211,Neuf,Acer,GRIS,Intel Core i7_11ème génération,16GB,512GB SSD,490 000 F Cfa
+212,Venant,HP,,,,,85 000 F Cfa
+213,Neuf,Apple,,,,,1 599 000 F Cfa
+214,Venant,Dell,Noir,Intel pentium 4 CPUs,8 GB,128GB SSD,130 000 F Cfa
+215,Venant,HP,GRIS,Intel Core i5 - 8ème génération,8 GB,512GB SSD,280 000 F Cfa
+216,Venant,Dell,,,,,75 000 F Cfa
+217,Neuf,Apple,Noir,M3 Pro,36,2000,2 000 000 F Cfa
+218,Venant,Apple,GRIS,cor i5,8GO,500GO,85 000 F Cfa
+219,Venant,Apple,GRIS,Cor i3,4 Go,500 Go,75 000 F Cfa
+220,Venant,HP,noir et gris,cor i5,8 Go,500 Go,150 000 F Cfa
+221,Venant,Dell,,i5 8th,8,256 go ssd,195 000 F Cfa
+222,Venant,Dell,,I7,32,1000,190 000 F Cfa
+223,Neuf,Lenovo,Noire,Ryzen 7 Pro 3700U / 2.3 GHz (4 GHz Turbo),16Go DDR4 (extensible à 32Go),SSD 512Go,265 000 F Cfa
+224,Venant,Lenovo,Gris,I5 13e Gen,16,1 Tb SSD,499 000 F Cfa
+225,Venant,HP,,I7 10th gen,16,SSD 512,550 000 F Cfa
+226,Neuf,Lenovo,Gris de fer,Core 2 duo,4gb,1000gb,140 000 F Cfa
+227,Venant,Apple,Gris Sidéral,Core i5,16,500,360 000 F Cfa
+228,Neuf,Lenovo,Noir,AMD Ryzen 7 Pro,16 Go,ssd 512,360 000 F Cfa
+229,Venant,Dell,Gris,Core i7,16 Go,512 Go,475 000 F Cfa
+230,Neuf,HP,Gris,Intel Core i7,16 Go,ssd 512 Go,460 000 F Cfa
+231,Venant,Microsoft Surface,Gris,Core i5,8 Go,256 Go,325 000 F Cfa
+232,Neuf,Microsoft Surface,Gris,Core i5,8 Go,128 Go,260 000 F Cfa
+233,Venant,Acer,Gris,Core i7,8Go,512Go,350 000 F Cfa
+234,Venant,Lenovo,Noire,Intel(R) Core(TM) 5-4210U CPU @ 1.70GHz 2.40 GHz,8 GIGa,1 Tera,140 000 F Cfa
+235,Venant,Dell,,i7,8 Go,256 Go ssd,150 000 F Cfa
+236,Venant,Dell,,Core i5,8 Go,256 Go ssd,165 000 F Cfa
+237,Venant,HP,,,,,45 000 F Cfa
+238,Neuf,HP,NOIR,SERVEUR,16 GO,2 TERA,895 000 F Cfa
+239,Venant,Dell,,,,,145 000 F Cfa
+240,Neuf,Dell,Noir Matt,Quad core,8Go,128 SSD,105 000 F Cfa
+241,Venant,HP,gris,CORE I5,8Go,256 SSD,220 000 F Cfa
+242,Neuf,Apple,Gris sidéral,i9 6coeurs,32Go,SSD 512Go,600 000 F Cfa
+243,Neuf,HP,,,,,350 000 F Cfa
+244,Venant,HP,,Core i5,8,Ssd,169 900 F Cfa
+245,Neuf,HP,gris,CORE I7,8 GO,512 SSD,265 000 F Cfa
+246,Venant,Lenovo,Noir,Intel Core i5 - 10ème génération,16GB,256GB SSD,380 000 F Cfa
+247,Venant,Apple,Gris sidéral,Corei5,8,512,425 000 F Cfa
+248,Neuf,HP,,,,,155 000 F Cfa
+249,Neuf,HP,,,,,175 000 F Cfa
+250,Venant,Apple,Corei5,Corei5,8,128,370 000 F Cfa
+251,Neuf,Apple,Argent,Corei7,8,256,475 000 F Cfa
+252,Neuf,Apple,Gris sidéral,Corei5,8,256,480 000 F Cfa
+253,Neuf,HP,Grise,Corei7,16,512,285 000 F Cfa
+254,Neuf,HP,Bleue et Noire,Intel Silver,8,256ssd,130 000 F Cfa
+255,Neuf,HP,Argent,i5,16,512,699 000 F Cfa
+256,Venant,Lenovo,Noir - Rose - Gris - Bleu - Vert - Rouge,Intel Celeron,4 Gb,128 Gb ssd,65 000 F Cfa
+257,Venant,HP,Gris metal,iCore 5,8Gb,256 Gb ssd /500 Gb hdd,165 000 F Cfa
+258,Venant,Apple,,3.2,24,1000,550 000 F Cfa
+259,Neuf,Lenovo,Noir,Core i7 11th,32go,1to,600 000 F Cfa
+260,Neuf,Dell,Gris,Core i7 11th,16go,512go,490 000 F Cfa
+261,Venant,Lenovo,Noir,i5 6th,8,500 go hdd ou 128 go ssd,145 000 F Cfa
+262,Venant,MSI,,I7 10th GEN,16,1000,690 000 F Cfa
+263,Venant,Acer,,I5 11th GEN,16,512,550 000 F Cfa
+264,Venant,Apple,Grey,Core i5,16GB,256 Go,450 000 F Cfa
+265,Venant,MSI,Black,Core i7,24GB,SSD 1TB,650 000 F Cfa
+266,Venant,LG,Grey,Core i7,16GB,512 Go,550 000 F Cfa
+267,Neuf,Acer,,i9-13900HX,16GB,SSD 1TB,1 350 000 F Cfa
+268,Neuf,HP,Gris,Core i5,16go,256ssd,230 000 F Cfa
+269,Venant,ASUS,,Ryzen 7-5825U,16,1000,440 000 F Cfa
+270,Venant,Apple,Grise,I7,16g,1000g,245 000 F Cfa
+271,Venant,HP,,Core i5,8,500,75 000 F Cfa
+272,Neuf,Lenovo,Noire,Core i5,8,256,220 000 F Cfa
+273,Venant,Dell,Noire,Intel Core i7,16,512,240 000 F Cfa
+274,Venant,HP,Grise,Dual core,4,256,85 000 F Cfa
+275,Venant,Apple,Gris,i9,32,500,675 000 F Cfa
+276,D'occasion,Acer,Rouge,Intel Core i7-9750H de 9e génération,,16 GO,450 000 F Cfa
+277,Venant,Dell,,i5,8 Go,256 Go ssd,125 000 F Cfa
+278,Neuf,Lenovo,,I7 12th Gen,32,1000,630 000 F Cfa
+279,Neuf,Samsung,,,,,180 000 F Cfa
+280,Venant,Lenovo,NOIRE,CORE I5,16 GO,256 SSD,225 000 F Cfa
+281,Neuf,Apple,Midnight,M2,8Go,256Go,800 000 F Cfa
+282,Venant,HP,GRIS,Intel Core i5 - 10ème génération,16GB,512GB SSD,380 000 F Cfa
+283,Neuf,Autre,,,,,200 000 F Cfa
+284,Neuf,Lenovo,Noire,,32go,,450 000 F Cfa
+285,Venant,HP,gris sideral/noir,corei3/i5,4/8go,500 go,120 000 F Cfa
+286,Venant,Dell,,core2/i3/i5,2/4/8,160/250/500,37 500 F Cfa
+287,Venant,Dell,GRIS-NOIR,corei5,4gb,250/500go,65 000 F Cfa
+288,Venant,Lenovo,noir,i5 4th,8,500 go hdd ou 128 go ssd,125 000 F Cfa
+289,Venant,Lenovo,,i5 6th,8,128 go ssd,155 000 F Cfa
+290,D'occasion,Lenovo,blaack,8 core,16 go,256 go,250 000 F Cfa
+291,Réconditionné,Apple,silver,8 core,,512 go,600 000 F Cfa
+292,Venant,Apple,gris,CORE I7,8Go,256 SSD,215 000 F Cfa
+293,Neuf,Dell,nior,34,4,45,35 000 F Cfa
+294,Venant,Lenovo,Noir,i7,16,512,380 000 F Cfa
+295,Venant,Dell,Gris,i5,16,256,280 000 F Cfa
+296,Neuf,HP,Gris,Ryzen 5 Pro,16,512,380 000 F Cfa
+297,Venant,Dell,Gris,I7,16,512,350 000 F Cfa
+298,Venant,Dell,Noir,Corei5,8,256,275 000 F Cfa
+299,Venant,Dell,Gris,I7 11th GEN,16,1To,610 000 F Cfa
+300,Neuf,Apple,,M2 ULTRA,64,1TB,2 799 000 F Cfa
+301,Venant,HP,,3.00,8,1000,90 000 F Cfa
+302,Neuf,Apple,Noir,M3 MAX,48,1TB,2 699 000 F Cfa
+303,Neuf,HP,Grise,Corei7,16,512Ssd,350 000 F Cfa
+304,Neuf,HP,Grise,Corei5,8,256Ssd,220 000 F Cfa
+305,Neuf,HP,Grise,Corei5,8,256Giga ssd,200 000 F Cfa
+306,Neuf,HP,Gris,Corei7,16,512,345 000 F Cfa
+307,Venant,HP,,Core i7,16,1000 go,389 900 F Cfa
+308,Venant,HP,Argenté,7th génération,8,256,125 000 F Cfa
+309,Venant,HP,GRIS,Intel Core m7 _ 6Y75 CPU,8 GB,256GB SSD,250 000 F Cfa
+310,Venant,HP,GRIS,Intel Core i7 - 10ème génération,16GB,512GB SSD,549 997 F Cfa
+311,Venant,,,,,,83 000 F Cfa
+312,Venant,Lenovo,,CORE I5,8,256,155 000 F Cfa
+313,Neuf,HP,GRIS,i7,16GB,512GB,650 000 F Cfa
+314,Neuf,Dell,noir,i7,32GB,1TB,950 000 F Cfa
+315,Venant,Apple,GRIS,M1 MAX,64GB,2TB,
+316,Neuf,Apple,GOLD,M2,8GB,256GB,860 000 F Cfa
+317,Neuf,Apple,noir,m2,8gb,256gb,720 000 F Cfa
+318,Neuf,Apple,,,8GB,256GB,499 900 F Cfa
+319,Venant,Apple,grise,2.2 Ghz core i7,8 Go,256 Go SSD,225 000 F Cfa
+320,Venant,HP,,,8,1000,150 000 F Cfa
+321,Venant,Dell,,,8,256,150 000 F Cfa
+322,Venant,HP,,,8,256,75 000 F Cfa
+323,Venant,Lenovo,,,8,512,295 000 F Cfa
+324,Venant,Apple,,,8,256,190 000 F Cfa
+325,Venant,Samsung,,,4,320,50 000 F Cfa
+326,Venant,Dell,,,8,128,120 000 F Cfa
+327,Venant,Dell,,,,,85 000 F Cfa
+328,Venant,Lenovo,,,8,256,275 000 F Cfa
+329,Venant,Samsung,,,8,500,70 000 F Cfa
+330,Venant,Dell,,,8,128,150 000 F Cfa
+331,Venant,Dell,,,8,320,80 000 F Cfa
+332,Venant,Apple,Gris sidéral,M2,8,256,650 000 F Cfa
+333,Venant,Apple,Gris sideral,M1,16,512,680 000 F Cfa
+334,Venant,ASUS,Bleu,Core i5,8,512,375 000 F Cfa
+335,Venant,Apple,Gris sidéral,I9,16,512,650 000 F Cfa
+336,Venant,MSI,Noir,I7,32,512+1tb,550 000 F Cfa
+337,Venant,Dell,,i5 6th,8,500 go hdd,145 000 F Cfa
+338,Venant,Lenovo,,i7 8th,8,256 go ssd,210 000 F Cfa
+339,Venant,Dell,Noir,i5 6th,8,500 go HDD,150 000 F Cfa
+340,Venant,Dell,Gris,I7 11th GEN,16,512,425 000 F Cfa
+341,Venant,HP,Grise,Core i5,8Go,256Go,160 000 F Cfa
+342,Neuf,HP,Blanche,Core i5,8Go DDR4,256Go,260 000 F Cfa
+343,Venant,Dell,NOIR ✅,CORE i7 ✅,32 GO ✅,500 GO SSD ✅,350 000 F Cfa
+344,Venant,Microsoft Surface,GRIS ✅,CORE i5 ✅,8 GO ✅,256 GO SSD ✅,260 000 F Cfa
+345,Venant,Dell,NOIR ✅,CORE i7 ✅,16 GO ✅,256 GO SSD ✅,285 000 F Cfa
+346,Venant,Dell,,,8,500,140 000 F Cfa
+347,Venant,Autre,,,8,500 Go,100 000 F Cfa
+348,Venant,Apple,Grise,I5,32Go,2TO,600 000 F Cfa
+349,Neuf,Autre,,,,,10 000 F Cfa
+350,Venant,Lenovo,NOIRE,I5,16,512,200 000 F Cfa
+351,Venant,Apple,,,,,50 000 F Cfa
+352,Venant,HP,Grise,I5,8,256,230 000 F Cfa
+353,Neuf,Autre,,,,,15 000 F Cfa
+354,Venant,Autre,,,,,35 000 F Cfa
+355,Venant,Microsoft Surface,GRISE,I5,16,256,320 000 F Cfa
+356,Neuf,Microsoft Surface,GRISE,I5,16,256,450 000 F Cfa
+357,Neuf,,NOIRE,,,,170 000 F Cfa
+358,Venant,HP,,i5,8 Go,500 Go,125 000 F Cfa
+359,Venant,Dell,,i5,8 Go,500 Go,135 000 F Cfa
+360,Venant,Apple,,i3,4 Go,500 Go,75 000 F Cfa
+361,Venant,Apple,,Core i5,8 GO,500 GO,85 000 F Cfa
+362,Venant,Apple,,Core i5,8 Go,500 Go,150 000 F Cfa
+363,Venant,Lenovo,,dual core,4,128 go ssd,85 000 F Cfa
+364,Venant,HP,,I7 12TH GEN,16,512,480 000 F Cfa
+365,Venant,Apple,Gris,i5,8,256,480 000 F Cfa
+366,Venant,Dell,Gris,i7,16,512,350 000 F Cfa
+367,Venant,Apple,Gris,I5,8gb,512gb,450 000 F Cfa
+368,D'occasion,Dell,Noir,I7,8,256,110 000 F Cfa
+369,Venant,Apple,Gris argent,I5,8,512,200 000 F Cfa
+370,D'occasion,Apple,Gris argent,I5,8,256,350 000 F Cfa
+371,Neuf,HP,Gris metal,I7,16,612,200 000 F Cfa
+372,Neuf,HP,,icore5 Intel,8GB,256GB SSD,185 000 F Cfa
+373,Venant,HP,,i7 6th,16,500 hdd,225 000 F Cfa
+374,Venant,HP,,,8,500,60 000 F Cfa
+375,Venant,HP,,,8,500,40 000 F Cfa
+376,Venant,Dell,gris sideral/noir,3.0ghz corei5,8gb/16gb,512 ssd,225 000 F Cfa
+377,Neuf,Apple,,,16gb,1000go,250 000 F Cfa
+378,Venant,HP,,,4gb,500go,150 000 F Cfa
+379,Neuf,HP,gris sideral,Corei5,8gb/16gb,256go,275 000 F Cfa
+380,Neuf,HP,GRIS-noir,corei5/i7,8/16/32gb,256/512go,400 000 F Cfa
+381,Neuf,HP,gris sideral,corei5,8,256,150 000 F Cfa
+382,Venant,Dell,,,,,60 000 F Cfa
+383,Neuf,HP,GRISE,AMD Ryzen Pro 5,16,256,235 000 F Cfa
+384,Venant,Dell,Gris foncé,i7,32Go,1Terra,480 000 F Cfa
+385,Neuf,Apple,Gris sidéral,I5,8Go,256 SSD,350 000 F Cfa
+386,Neuf,HP,Gris,I5,16Go,512 SSD,335 000 F Cfa
+387,Venant,Apple,GRISE,I5,16,512,420 000 F Cfa
+388,Neuf,Dell,noire,i7,16,256 et 1000,480 000 F Cfa
+389,Neuf,HP,grise,i7,16,1000,475 000 F Cfa
+390,Venant,Lenovo,noire,i5,500,8,125 000 F Cfa
+391,Venant,HP,grise,i5,8,256,145 000 F Cfa
+392,Venant,Apple,GRISE,i5,8,256,160 000 F Cfa
+393,Venant,Dell,,,4,320,80 000 F Cfa
+394,Neuf,Apple,Noir,M3 PRO,18,512,1 649 000 F Cfa
+395,Venant,Toshiba,,I5,8,500,99 900 F Cfa
+396,Neuf,HP,Grise,Corei5,8,256,200 000 F Cfa
+397,Venant,Lenovo,Noir,Intel Core i7,8 GB,256GB SSD,280 000 F Cfa
+398,Neuf,HP,Grise,Corei5,8,256,220 000 F Cfa
+399,Neuf,Apple,Gris,M1,8,512,600 000 F Cfa
+400,Neuf,Apple,Gris sideral,M1,8,256,550 000 F Cfa
+401,Neuf,Apple,Gris sidéral,Corei5,16,512,530 000 F Cfa
+402,Neuf,HP,Gris,Corei5,8,256,275 000 F Cfa
+403,Venant,Apple,Argenté,M1,8,512 ssd,525 000 F Cfa
+404,Neuf,HP,95000,CoreM5,8,128,95 000 F Cfa
+405,Neuf,Dell,Noire,Intel,8,128Ssd,95 000 F Cfa
+406,Venant,HP,Argenté,Core i5,8,500,149 900 F Cfa
+407,Neuf,Apple,,,8GB,256GB SSD,499 000 F Cfa
+408,Neuf,HP,,,16GB,256GB SSD,199 900 F Cfa
+409,Venant,HP,,,8,500 go hdd,115 000 F Cfa
+410,Venant,Apple,Gris,1.6 Ghz,8go,256go,200 000 F Cfa
+411,Neuf,HP,Gris,Core i5 13em gen,8Go,512Go,350 000 F Cfa
+412,Venant,Dell,Noir,Core i5,8Go,256Go,180 000 F Cfa
+413,Venant,ASUS,Noir,2.6,16,512,500 F Cfa
+414,Neuf,Apple,Différent couleur disponible,,,128GB,245 000 F Cfa
+415,Venant,Microsoft Surface,NOIR ✅,CORE i5 ✅,8 GO ✅,256 GO SSD ✅,350 000 F Cfa
+416,Venant,Lenovo,NOIR ✅,CORE i7 ✅,8 GO ✅,500 GO SSD ✅,500 000 F Cfa
+417,Venant,Lenovo,NOIR ✅,Core i7 ✅,32 GO ✅,256 GO SSD ✅,320 000 F Cfa
+418,Venant,Lenovo,NOIR ✅,CORE i5 ✅,8 GO ✅,256 GO SSD ✅,195 000 F Cfa
+419,Venant,Dell,noir,i5 2.5 ghz,8,500 go hdd ou 180 go ssd,160 000 F Cfa
+420,Neuf,Packard Bell,Noir,,,,80 000 F Cfa
+421,Venant,HP,Gris,Core i5,8Go,256ssd,250 000 F Cfa
+422,Venant,Dell,Gris noir,,,,170 000 F Cfa
+423,Venant,HP,NOIRE,I5,16,256,250 000 F Cfa
+424,Neuf,HP,Argent,i7,16GB,512 SSD,340 000 F Cfa
+425,Venant,Apple,Gris sidéral,M1,16Go,512 SSD,850 000 F Cfa
+426,Neuf,Lenovo,Noir matt,i7,32Go,1TB SSD,900 000 F Cfa
+427,Venant,HP,,i5 8th,8,256 go ssd,195 000 F Cfa
+428,Venant,Lenovo,Noir,,8,500 go hdd,95 000 F Cfa
+429,Venant,Lenovo,,14 pouces,8,180ssd,95 000 F Cfa
+430,Venant,HP,,,8,256ssd,125 000 F Cfa
+431,Venant,ASUS,Blanc,Core i3,4giga,750giga,110 000 F Cfa
+432,Neuf,HP,Gris,i5 8eme Generation,8Go,SSD 256Go,200 000 F Cfa
+433,Neuf,HP,Gris,"Ryzen 5 Pro 12 Processeurs 2,7Ghz",16Go,SSD 512Go,350 000 F Cfa
+434,Neuf,Dell,Blanc,i9 16Processeurs 3.1Ghz,32Go,SSD 1To,900 000 F Cfa
+435,Neuf,Apple,Gris sidéral,I7,16Go,512 SSD,600 000 F Cfa
+436,Neuf,HP,Argent,I5,16Go,512 SSD,450 000 F Cfa
+437,Neuf,HP,,i5,8,256,549 000 F Cfa
+438,Neuf,MSI,Black,I7 12eme Generation,16GB DDR5,1Tera SSD,950 000 F Cfa
+439,Neuf,Dell,,I7 12eme Generation,16GB DDR5,SSD 512GB,750 000 F Cfa
+440,Venant,HP,GRIS,Intel Core i5 - 8ème génération,16GB,512GB SSD,380 000 F Cfa
+441,Venant,HP,GRIS,Intel Core i5 - 8ème génération,8 GB,512GB SSD,280 000 F Cfa
+442,Neuf,HP,Noir,I7 10generation,16 giga,512 Ssd,750 000 F Cfa
+443,Neuf,Lenovo,noir,i5,16gb,256gb,355 000 F Cfa
+444,Venant,HP,Noir,i5 6th,8,500 go,130 000 F Cfa
+445,Venant,Lenovo,,i5 7th,8,500 go HDD ou 128 go ssd,150 000 F Cfa
+446,Neuf,Lenovo,Noir,Core i5,8go,256go,190 000 F Cfa
+447,Neuf,Dell,Gris,Core i7,8go,512go,360 000 F Cfa
+448,Venant,HP,,Dual core,8 Go,128 Go ssd,75 000 F Cfa
+449,Venant,HP,,i5,8 Go,500 Go,100 000 F Cfa
+450,Venant,HP,,,4 Go,500 Go,65 000 F Cfa
+451,Venant,HP,,i3,4 Go,500 Go,75 000 F Cfa
+452,Venant,Apple,,Core i7,8 Go,256 Go ssd,250 000 F Cfa
+453,Venant,HP,,i3,4 Go,500 Go,65 000 F Cfa
+454,Venant,Apple,,Dual core,4 Go,500 Go,65 000 F Cfa
+455,Venant,Dell,,i5,8 Go,256 Go ssd,140 000 F Cfa
+456,Venant,HP,,i5,8 Go,256 Go ssd,150 000 F Cfa
+457,Venant,HP,,i5,8 Go,256 Go ssd,135 000 F Cfa
+458,Venant,Apple,,,,,65 000 F Cfa
+459,Neuf,ASUS,Gray,i7,16,512,350 000 F Cfa
+460,Venant,HP,,i5,8,500 go hdd,125 000 F Cfa
+461,Venant,Lenovo,,duo core,4,500 go hdd,75 000 F Cfa
+462,Venant,Dell,noir,i5 6th 2.5 ghz,8,500 go hdd ou 128 go ssd,145 000 F Cfa
+463,Venant,Lenovo,,i5 8th,8,256 go ssd,190 000 F Cfa
+464,Venant,HP,,Core i5,8 Go,500 Go,125 000 F Cfa
+465,Venant,HP,,i7,16 Go,500 Go,150 000 F Cfa
+466,Venant,HP,,i5,16 Go,500 Go,150 000 F Cfa
+467,Venant,Lenovo,,Intel celeron,8 Go,500 Go,85 000 F Cfa
+468,Venant,Apple,,i5,8 Go,128 Go ssd,135 000 F Cfa
+469,Venant,Apple,,i5,8 Go,128 Go ssd,150 000 F Cfa
+470,Venant,Apple,,i5,8 Go,128 Go ssd,165 000 F Cfa
+471,Venant,HP,Gris,Core I5,16Gb,256 Ssd,250 000 F Cfa
+472,Venant,HP,,dual core,4,128 Go ssd,90 000 F Cfa
+473,Venant,HP,noir,i5 4th,8,500 go hdd,125 000 F Cfa
+474,Venant,Lenovo,Noire,I7,32,2000,475 000 F Cfa
+475,Neuf,Lenovo,Noire,I5,16,512,285 000 F Cfa
+476,Neuf,Lenovo,Noire,I7,16,512,285 000 F Cfa
+477,Neuf,Dell,Noire,I7,16,1000,850 000 F Cfa
+478,Neuf,Apple,Gris,M1,8,256,500 000 F Cfa
+479,Neuf,Apple,Gris,M1,8,256,425 000 F Cfa
+480,Neuf,Apple,Grise,Core i7,32Go DDR4,1To SSD,599 000 F Cfa
+481,Neuf,Apple,Grise,,18,512,1 450 000 F Cfa
+482,Neuf,Apple,Grise,Core i7,16Go DDR4,512Go SSD,560 000 F Cfa
+483,Venant,Apple,Gris,Core i5,8go,512ssd,450 000 F Cfa
+484,Neuf,Autre,Noir-gris,,,,200 000 F Cfa
+485,Venant,HP,,2.9ghz,32go,1000go,500 000 F Cfa
+486,Venant,HP,grise,i3,8,1000,130 000 F Cfa
+487,Réconditionné,Dell,"NOIR, GRISE, BLEU, VERT, .......",CORE I5,8go,500GO,90 000 F Cfa
+488,Réconditionné,Dell,NOIR,CORE I3,8GO,500GO,75 000 F Cfa
+489,Réconditionné,Dell,NOIR,CORE I3,8GO,500GO,75 000 F Cfa
+490,Réconditionné,Dell,"NOIR , BLEU",CORE I5,8GO,320 à 500 GO,70 000 F Cfa
+491,Venant,HP,,Core i7,8Go,256Go SSD,165 000 F Cfa
+492,Réconditionné,HP,GRIS NOIR,CORE I5,16GO,256Go SSD,200 000 F Cfa
+493,Réconditionné,HP,GRIS NOIR,CORE I7,16GO,256Go SSD,275 000 F Cfa
+494,Venant,HP,,i5 3th,8,500 go hdd,110 000 F Cfa
+495,Venant,Lenovo,,i5 8th,8,256 go ssd,190 000 F Cfa
+496,Neuf,Autre,,I7 10th GEN,16,1000,480 000 F Cfa
+497,Venant,Apple,Grise,I7,16,512,260 000 F Cfa
+498,Venant,Dell,Noire,I7,16,512,200 000 F Cfa
+499,Venant,Lenovo,,I5,8,500,100 000 F Cfa
+500,Venant,Dell,,,,,135 000 F Cfa
+501,Neuf,HP,Argent,I5,8Go,256 SSD,240 000 F Cfa
