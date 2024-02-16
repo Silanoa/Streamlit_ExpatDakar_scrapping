@@ -3,8 +3,6 @@ pandas
 bs4
 requests
 numpy
-os
-time
 matplotlib
 seaborn
 plotly
