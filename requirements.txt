@@ -1,0 +1,11 @@
+streamlit
+pandas
+bs4
+requests 
+base64
+numpy
+os
+time
+matplotlib
+seaborn
+plotly
